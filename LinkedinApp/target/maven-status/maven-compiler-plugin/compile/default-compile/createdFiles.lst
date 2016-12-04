@@ -1,0 +1,10 @@
+linkedinapp\DataServiceMySQL.class
+linkedinapp\ScrapperService.class
+linkedinapp\Experience.class
+linkedinapp\SearchService.class
+linkedinapp\AddService.class
+linkedinapp\DataService.class
+linkedinapp\ScrapperServiceDOM.class
+linkedinapp\Profile.class
+linkedinapp\Education.class
+linkedinapp\ServiceHandler.class
